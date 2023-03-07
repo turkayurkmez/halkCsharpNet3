@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ArrayListAndGenericList/1.0.0": {
+        "runtime": {
+          "ArrayListAndGenericList.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArrayListAndGenericList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
