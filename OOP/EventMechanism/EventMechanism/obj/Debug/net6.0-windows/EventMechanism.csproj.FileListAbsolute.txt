@@ -1,0 +1,17 @@
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\OOP\EventMechanism\EventMechanism\bin\Debug\net6.0-windows\EventMechanism.exe
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\OOP\EventMechanism\EventMechanism\bin\Debug\net6.0-windows\EventMechanism.deps.json
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\OOP\EventMechanism\EventMechanism\bin\Debug\net6.0-windows\EventMechanism.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\OOP\EventMechanism\EventMechanism\bin\Debug\net6.0-windows\EventMechanism.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\OOP\EventMechanism\EventMechanism\bin\Debug\net6.0-windows\EventMechanism.pdb
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\OOP\EventMechanism\EventMechanism\obj\Debug\net6.0-windows\EventMechanism.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\OOP\EventMechanism\EventMechanism\obj\Debug\net6.0-windows\EventMechanism.Form1.resources
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\OOP\EventMechanism\EventMechanism\obj\Debug\net6.0-windows\EventMechanism.csproj.GenerateResource.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\OOP\EventMechanism\EventMechanism\obj\Debug\net6.0-windows\EventMechanism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\OOP\EventMechanism\EventMechanism\obj\Debug\net6.0-windows\EventMechanism.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\OOP\EventMechanism\EventMechanism\obj\Debug\net6.0-windows\EventMechanism.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\OOP\EventMechanism\EventMechanism\obj\Debug\net6.0-windows\EventMechanism.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\OOP\EventMechanism\EventMechanism\obj\Debug\net6.0-windows\EventMechanism.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\OOP\EventMechanism\EventMechanism\obj\Debug\net6.0-windows\refint\EventMechanism.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\OOP\EventMechanism\EventMechanism\obj\Debug\net6.0-windows\EventMechanism.pdb
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\OOP\EventMechanism\EventMechanism\obj\Debug\net6.0-windows\EventMechanism.genruntimeconfig.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\OOP\EventMechanism\EventMechanism\obj\Debug\net6.0-windows\ref\EventMechanism.dll

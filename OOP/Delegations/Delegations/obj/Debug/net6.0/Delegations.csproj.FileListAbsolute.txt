@@ -1,0 +1,15 @@
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\OOP\Delegations\Delegations\bin\Debug\net6.0\Delegations.exe
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\OOP\Delegations\Delegations\bin\Debug\net6.0\Delegations.deps.json
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\OOP\Delegations\Delegations\bin\Debug\net6.0\Delegations.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\OOP\Delegations\Delegations\bin\Debug\net6.0\Delegations.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\OOP\Delegations\Delegations\bin\Debug\net6.0\Delegations.pdb
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\OOP\Delegations\Delegations\obj\Debug\net6.0\Delegations.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\OOP\Delegations\Delegations\obj\Debug\net6.0\Delegations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\OOP\Delegations\Delegations\obj\Debug\net6.0\Delegations.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\OOP\Delegations\Delegations\obj\Debug\net6.0\Delegations.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\OOP\Delegations\Delegations\obj\Debug\net6.0\Delegations.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\OOP\Delegations\Delegations\obj\Debug\net6.0\Delegations.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\OOP\Delegations\Delegations\obj\Debug\net6.0\refint\Delegations.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\OOP\Delegations\Delegations\obj\Debug\net6.0\Delegations.pdb
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\OOP\Delegations\Delegations\obj\Debug\net6.0\Delegations.genruntimeconfig.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\OOP\Delegations\Delegations\obj\Debug\net6.0\ref\Delegations.dll
