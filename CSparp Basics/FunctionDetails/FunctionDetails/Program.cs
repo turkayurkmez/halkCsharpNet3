@@ -130,7 +130,8 @@ public class Area
             case Geometry.Circle:
                 return Math.Pow(unit1, 2) * 3.14;
             case Geometry.Triangle:
-                return unit2.HasValue ? unit1 * unit2.Value / 2 : throw new ArgumentNullException(nameof(unit2));
+                //return unit2.HasValue ? (unit1 * unit2.Value) / 2 : throw new ArgumentNullException(nameof(unit2));
+                return unit1 * (unit2 ?? 0) / 2;
             default:
                 return 0;
 

@@ -1,0 +1,15 @@
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\OOP\OOPOverview\ObjectVSClass\bin\Debug\net6.0\ObjectVSClass.exe
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\OOP\OOPOverview\ObjectVSClass\bin\Debug\net6.0\ObjectVSClass.deps.json
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\OOP\OOPOverview\ObjectVSClass\bin\Debug\net6.0\ObjectVSClass.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\OOP\OOPOverview\ObjectVSClass\bin\Debug\net6.0\ObjectVSClass.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\OOP\OOPOverview\ObjectVSClass\bin\Debug\net6.0\ObjectVSClass.pdb
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\OOP\OOPOverview\ObjectVSClass\obj\Debug\net6.0\ObjectVSClass.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\OOP\OOPOverview\ObjectVSClass\obj\Debug\net6.0\ObjectVSClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\OOP\OOPOverview\ObjectVSClass\obj\Debug\net6.0\ObjectVSClass.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\OOP\OOPOverview\ObjectVSClass\obj\Debug\net6.0\ObjectVSClass.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\OOP\OOPOverview\ObjectVSClass\obj\Debug\net6.0\ObjectVSClass.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\OOP\OOPOverview\ObjectVSClass\obj\Debug\net6.0\ObjectVSClass.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\OOP\OOPOverview\ObjectVSClass\obj\Debug\net6.0\refint\ObjectVSClass.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\OOP\OOPOverview\ObjectVSClass\obj\Debug\net6.0\ObjectVSClass.pdb
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\OOP\OOPOverview\ObjectVSClass\obj\Debug\net6.0\ObjectVSClass.genruntimeconfig.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\OOP\OOPOverview\ObjectVSClass\obj\Debug\net6.0\ref\ObjectVSClass.dll
