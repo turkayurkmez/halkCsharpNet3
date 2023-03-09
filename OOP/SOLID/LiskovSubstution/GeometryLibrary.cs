@@ -2,10 +2,10 @@
 {
     public class GeometryLibrary
     {
-        public IAreaCalcutable RectangleFactory(int unit1, int unit2 = 1)
+        public IAreaCalcutable RectangleFactory(int unit1, int? unit2 = null)
         {
             //Burada başka bir işlem yapılıyor ve Kare nesnesi döndürülüyor. 
-            return unit2 != 1 ? new Rectangle { Width = unit1, Height = unit2 } :
+            return unit2 != null ? new Rectangle { Width = unit1, Height = unit2.Value } :
                                 new Square { UnitLength = unit1 };
         }
 

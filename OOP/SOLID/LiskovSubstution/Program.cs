@@ -8,7 +8,7 @@ Console.WriteLine("Hello, World!");
  * 
  */
 
-var rectangle = new GeometryLibrary().RectangleFactory(5, 12);
+var rectangle = new GeometryLibrary().RectangleFactory(unit1: 10, unit2: 1);
 Console.WriteLine(rectangle.GetArea());
 
 
