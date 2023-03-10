@@ -1,0 +1,17 @@
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\AsynchronousProgramming\usingTasks\bin\Debug\net6.0-windows\usingTasks.exe
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\AsynchronousProgramming\usingTasks\bin\Debug\net6.0-windows\usingTasks.deps.json
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\AsynchronousProgramming\usingTasks\bin\Debug\net6.0-windows\usingTasks.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\AsynchronousProgramming\usingTasks\bin\Debug\net6.0-windows\usingTasks.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\AsynchronousProgramming\usingTasks\bin\Debug\net6.0-windows\usingTasks.pdb
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\AsynchronousProgramming\usingTasks\obj\Debug\net6.0-windows\usingTasks.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\AsynchronousProgramming\usingTasks\obj\Debug\net6.0-windows\usingTasks.Form1.resources
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\AsynchronousProgramming\usingTasks\obj\Debug\net6.0-windows\usingTasks.csproj.GenerateResource.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\AsynchronousProgramming\usingTasks\obj\Debug\net6.0-windows\usingTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\AsynchronousProgramming\usingTasks\obj\Debug\net6.0-windows\usingTasks.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\AsynchronousProgramming\usingTasks\obj\Debug\net6.0-windows\usingTasks.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\AsynchronousProgramming\usingTasks\obj\Debug\net6.0-windows\usingTasks.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\AsynchronousProgramming\usingTasks\obj\Debug\net6.0-windows\usingTasks.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\AsynchronousProgramming\usingTasks\obj\Debug\net6.0-windows\refint\usingTasks.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\AsynchronousProgramming\usingTasks\obj\Debug\net6.0-windows\usingTasks.pdb
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\AsynchronousProgramming\usingTasks\obj\Debug\net6.0-windows\usingTasks.genruntimeconfig.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\AsynchronousProgramming\usingTasks\obj\Debug\net6.0-windows\ref\usingTasks.dll

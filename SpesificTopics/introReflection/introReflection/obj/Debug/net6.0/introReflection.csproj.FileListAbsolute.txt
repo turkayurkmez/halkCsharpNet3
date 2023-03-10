@@ -1,0 +1,15 @@
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\introReflection\introReflection\bin\Debug\net6.0\introReflection.exe
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\introReflection\introReflection\bin\Debug\net6.0\introReflection.deps.json
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\introReflection\introReflection\bin\Debug\net6.0\introReflection.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\introReflection\introReflection\bin\Debug\net6.0\introReflection.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\introReflection\introReflection\bin\Debug\net6.0\introReflection.pdb
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\introReflection\introReflection\obj\Debug\net6.0\introReflection.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\introReflection\introReflection\obj\Debug\net6.0\introReflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\introReflection\introReflection\obj\Debug\net6.0\introReflection.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\introReflection\introReflection\obj\Debug\net6.0\introReflection.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\introReflection\introReflection\obj\Debug\net6.0\introReflection.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\introReflection\introReflection\obj\Debug\net6.0\introReflection.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\introReflection\introReflection\obj\Debug\net6.0\refint\introReflection.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\introReflection\introReflection\obj\Debug\net6.0\introReflection.pdb
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\introReflection\introReflection\obj\Debug\net6.0\introReflection.genruntimeconfig.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\introReflection\introReflection\obj\Debug\net6.0\ref\introReflection.dll

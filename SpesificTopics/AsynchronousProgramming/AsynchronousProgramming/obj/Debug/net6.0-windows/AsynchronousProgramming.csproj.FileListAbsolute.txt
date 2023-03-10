@@ -1,0 +1,17 @@
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\AsynchronousProgramming\AsynchronousProgramming\bin\Debug\net6.0-windows\AsynchronousProgramming.exe
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\AsynchronousProgramming\AsynchronousProgramming\bin\Debug\net6.0-windows\AsynchronousProgramming.deps.json
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\AsynchronousProgramming\AsynchronousProgramming\bin\Debug\net6.0-windows\AsynchronousProgramming.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\AsynchronousProgramming\AsynchronousProgramming\bin\Debug\net6.0-windows\AsynchronousProgramming.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\AsynchronousProgramming\AsynchronousProgramming\bin\Debug\net6.0-windows\AsynchronousProgramming.pdb
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\net6.0-windows\AsynchronousProgramming.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\net6.0-windows\AsynchronousProgramming.Form1.resources
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\net6.0-windows\AsynchronousProgramming.csproj.GenerateResource.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\net6.0-windows\AsynchronousProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\net6.0-windows\AsynchronousProgramming.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\net6.0-windows\AsynchronousProgramming.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\net6.0-windows\AsynchronousProgramming.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\net6.0-windows\AsynchronousProgramming.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\net6.0-windows\refint\AsynchronousProgramming.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\net6.0-windows\AsynchronousProgramming.pdb
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\net6.0-windows\AsynchronousProgramming.genruntimeconfig.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\net6.0-windows\ref\AsynchronousProgramming.dll

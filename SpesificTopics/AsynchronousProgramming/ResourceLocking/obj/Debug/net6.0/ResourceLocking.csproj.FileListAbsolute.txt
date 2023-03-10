@@ -1,0 +1,15 @@
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\AsynchronousProgramming\ResourceLocking\bin\Debug\net6.0\ResourceLocking.exe
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\AsynchronousProgramming\ResourceLocking\bin\Debug\net6.0\ResourceLocking.deps.json
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\AsynchronousProgramming\ResourceLocking\bin\Debug\net6.0\ResourceLocking.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\AsynchronousProgramming\ResourceLocking\bin\Debug\net6.0\ResourceLocking.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\AsynchronousProgramming\ResourceLocking\bin\Debug\net6.0\ResourceLocking.pdb
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\AsynchronousProgramming\ResourceLocking\obj\Debug\net6.0\ResourceLocking.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\AsynchronousProgramming\ResourceLocking\obj\Debug\net6.0\ResourceLocking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\AsynchronousProgramming\ResourceLocking\obj\Debug\net6.0\ResourceLocking.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\AsynchronousProgramming\ResourceLocking\obj\Debug\net6.0\ResourceLocking.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\AsynchronousProgramming\ResourceLocking\obj\Debug\net6.0\ResourceLocking.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\AsynchronousProgramming\ResourceLocking\obj\Debug\net6.0\ResourceLocking.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\AsynchronousProgramming\ResourceLocking\obj\Debug\net6.0\refint\ResourceLocking.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\AsynchronousProgramming\ResourceLocking\obj\Debug\net6.0\ResourceLocking.pdb
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\AsynchronousProgramming\ResourceLocking\obj\Debug\net6.0\ResourceLocking.genruntimeconfig.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\SpesificTopics\AsynchronousProgramming\ResourceLocking\obj\Debug\net6.0\ref\ResourceLocking.dll

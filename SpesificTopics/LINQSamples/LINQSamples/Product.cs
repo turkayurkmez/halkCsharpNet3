@@ -8,6 +8,8 @@
         public double Price { get; set; }
         public double Rating { get; set; }
         public bool IsStock { get; set; }
+
+        public Category Category { get; set; }
     }
 
 }
