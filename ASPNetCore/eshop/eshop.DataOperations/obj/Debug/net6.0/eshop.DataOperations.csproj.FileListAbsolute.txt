@@ -1,0 +1,15 @@
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\ASPNetCore\eshop\eshop.DataOperations\bin\Debug\net6.0\eshop.DataOperations.deps.json
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\ASPNetCore\eshop\eshop.DataOperations\bin\Debug\net6.0\eshop.DataOperations.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\ASPNetCore\eshop\eshop.DataOperations\bin\Debug\net6.0\eshop.DataOperations.pdb
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\ASPNetCore\eshop\eshop.DataOperations\bin\Debug\net6.0\eshop.Entities.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\ASPNetCore\eshop\eshop.DataOperations\bin\Debug\net6.0\eshop.Entities.pdb
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\ASPNetCore\eshop\eshop.DataOperations\obj\Debug\net6.0\eshop.DataOperations.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\ASPNetCore\eshop\eshop.DataOperations\obj\Debug\net6.0\eshop.DataOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\ASPNetCore\eshop\eshop.DataOperations\obj\Debug\net6.0\eshop.DataOperations.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\ASPNetCore\eshop\eshop.DataOperations\obj\Debug\net6.0\eshop.DataOperations.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\ASPNetCore\eshop\eshop.DataOperations\obj\Debug\net6.0\eshop.DataOperations.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\ASPNetCore\eshop\eshop.DataOperations\obj\Debug\net6.0\eshop.DataOperations.csproj.CopyComplete
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\ASPNetCore\eshop\eshop.DataOperations\obj\Debug\net6.0\eshop.DataOperations.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\ASPNetCore\eshop\eshop.DataOperations\obj\Debug\net6.0\refint\eshop.DataOperations.dll
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\ASPNetCore\eshop\eshop.DataOperations\obj\Debug\net6.0\eshop.DataOperations.pdb
+C:\Users\turka\source\repos\Kurumsal\Halkbank\March - CSharp.NET\ASPNetCore\eshop\eshop.DataOperations\obj\Debug\net6.0\ref\eshop.DataOperations.dll
