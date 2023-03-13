@@ -1,0 +1,12 @@
+﻿@model ThanksViewModel
+
+
+<p>Yanıtınız için teşekkürler @Model.User.Name, Size @Model.User.Email üzerinden döneceğiz.</p>
+<p>Bu arada hizmetlerimiz:</p>
+<ul>
+    @foreach (var service in Model.Services)
+    {
+        <li>@service.Name</li>
+    }
+</ul>
+

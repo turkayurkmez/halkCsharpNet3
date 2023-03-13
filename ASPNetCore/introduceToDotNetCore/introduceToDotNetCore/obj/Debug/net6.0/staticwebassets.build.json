@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "mIEBuGcL2mEq6siGKLRocufc6ogO/g7FjCdIhjdgymw=",
+  "Source": "introduceToDotNetCore",
+  "BasePath": "_content/introduceToDotNetCore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "introduceToDotNetCore\\wwwroot",
+      "Source": "introduceToDotNetCore",
+      "ContentRoot": "C:\\Users\\turka\\source\\repos\\Kurumsal\\Halkbank\\March - CSharp.NET\\ASPNetCore\\introduceToDotNetCore\\introduceToDotNetCore\\wwwroot\\",
+      "BasePath": "_content/introduceToDotNetCore",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\turka\\source\\repos\\Kurumsal\\Halkbank\\March - CSharp.NET\\ASPNetCore\\introduceToDotNetCore\\introduceToDotNetCore\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+      "SourceId": "introduceToDotNetCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\turka\\source\\repos\\Kurumsal\\Halkbank\\March - CSharp.NET\\ASPNetCore\\introduceToDotNetCore\\introduceToDotNetCore\\wwwroot\\",
+      "BasePath": "_content/introduceToDotNetCore",
+      "RelativePath": "lib/bootstrap/css/bootstrap.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\turka\\source\\repos\\Kurumsal\\Halkbank\\March - CSharp.NET\\ASPNetCore\\introduceToDotNetCore\\introduceToDotNetCore\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "SourceId": "introduceToDotNetCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\turka\\source\\repos\\Kurumsal\\Halkbank\\March - CSharp.NET\\ASPNetCore\\introduceToDotNetCore\\introduceToDotNetCore\\wwwroot\\",
+      "BasePath": "_content/introduceToDotNetCore",
+      "RelativePath": "lib/bootstrap/js/bootstrap.bundle.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js"
+    }
+  ]
+}
