@@ -9,7 +9,7 @@ namespace eshop.DataOperations.Repositories
         void Update(T entity);
         void Delete(T entity);
         IList<T> GetAll();
-        T GetById(int id);
+        T? GetById(int id);
         IList<T> GetByCriteria(Expression<Func<T, bool>> criteria);
 
 

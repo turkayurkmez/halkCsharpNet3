@@ -13,6 +13,10 @@ namespace eshop.Application
             productRepository = productRespository;
         }
 
+        public Product? GetProduct(int id)
+        {
+            return productRepository.GetById(id);
+        }
 
         public List<Product> GetProducts()
         {

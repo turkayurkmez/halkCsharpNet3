@@ -5,6 +5,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddSession();
 builder.Services.AddScoped<IProductService, ProductService>();
 builder.Services.AddScoped<IProductRespository, FakeProductRepository>();
 builder.Services.AddScoped<ICategoryService, CategoryService>();
@@ -25,6 +26,8 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
+
+app.UseSession();
 
 app.UseAuthorization();
 

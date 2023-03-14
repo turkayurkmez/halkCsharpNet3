@@ -19,3 +19,29 @@
     }
 </div>
 
+@section Scripts{
+
+
+    <script>
+        $(document).ready(function(){
+            console.log('jquery çalışıyor ')
+            $('.basket').on('click',function(){
+                let id = $(this).data('id');
+                console.log(id);
+                $.ajax({
+                    url: '/ShoppingCard/AddProduct/'+id,
+                    method:'GET',
+                    success: function(data){
+                        console.log(data);
+                        console.log('sepete eklendi');
+                    },
+                    error: function(err){
+                        console.log(err);
+                    }
+
+
+                });
+            });
+        });
+    </script>
+}
