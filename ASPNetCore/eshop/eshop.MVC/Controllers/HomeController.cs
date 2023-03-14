@@ -19,9 +19,10 @@ namespace eshop.MVC.Controllers
 
         }
 
-        public IActionResult Index()
+        public IActionResult Index(int? categoryId = null)
         {
-            var products = productService.GetProducts();
+
+            var products = categoryId is null ? productService.GetProducts() : productService.GetProductsByCategoryId(categoryId.Value);
             return View(products);
         }
 

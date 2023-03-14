@@ -13,5 +13,7 @@ namespace eshop.Entities
         public int Stock { get; set; }
         public double DiscountRate { get; set; }
 
+        public int? CategoryId { get; set; }
+
     }
 }

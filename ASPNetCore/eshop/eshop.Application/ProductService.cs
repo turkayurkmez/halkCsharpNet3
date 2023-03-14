@@ -18,5 +18,10 @@ namespace eshop.Application
         {
             return productRepository.GetAll().ToList();
         }
+
+        public List<Product> GetProductsByCategoryId(int categoryId)
+        {
+            return productRepository.GetAll().Where(p => p.CategoryId == categoryId).ToList();
+        }
     }
 }

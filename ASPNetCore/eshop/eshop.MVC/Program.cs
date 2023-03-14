@@ -5,8 +5,11 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-builder.Services.AddSingleton<IProductService, ProductService>();
-builder.Services.AddSingleton<IProductRespository, FakeProductRepository>();
+builder.Services.AddScoped<IProductService, ProductService>();
+builder.Services.AddScoped<IProductRespository, FakeProductRepository>();
+builder.Services.AddScoped<ICategoryService, CategoryService>();
+builder.Services.AddScoped<ICategoryRepository, FakeCategoryRepository>();
+
 
 var app = builder.Build();
 
@@ -25,8 +28,23 @@ app.UseRouting();
 
 app.UseAuthorization();
 
-app.MapControllerRoute(
+app.UseEndpoints(enpoints =>
+{
+    app.MapControllerRoute(
+    name: "category",
+    pattern: "Category_{categoryId}",
+    defaults: new { controller = "Home", action = "Index", categoryId = 1 });
+
+    app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
+
+});
+
+
+
+
+
+
 
 app.Run();
